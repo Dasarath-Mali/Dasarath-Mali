@@ -24,11 +24,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **VisuaCode** — a JavaScript-powered visual coding tool
-- 🌱 Exploring **Data Structures & Algorithms** (check out my DS_rev repo!)
-- 💡 I believe great software starts with curiosity and clean code
-- 🎯 Goal: Craft meaningful full-stack experiences that solve real problems
-- ⚡ Fun fact: I once made a physics simulator *and* a birthday surprise — in code
+- 🔭 Currently building **PROVIBER AI** & **Agentic Portfolio** — where AI meets real-world utility
+- 🎓 Creator of **Academic Orchestrator** — simplifying student workflows end-to-end
+- 🌱 Sharpening my **Data Structures & Algorithms** skills daily
+- 💡 Passionate about merging AI capabilities with clean, intuitive full-stack design
+- 🎯 Goal: Build products that are as smart as they are beautiful
+- 📬 Reach me at **dasarathmali0007@gmail.com**
 
 ---
 
@@ -57,8 +58,8 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔵 <a href="https://github.com/Dasarath-Mali/VisuaCode">VisuaCode</a></h3>
-      <p>A JavaScript-based visual coding environment designed to make programming concepts intuitive and interactive. Great for learners and educators alike.</p>
+      <h3>🎓 <a href="https://github.com/Dasarath-Mali/Academic-Orchestrator">Academic Orchestrator</a></h3>
+      <p>A full-stack academic management platform that streamlines student workflows — from scheduling and assignments to progress tracking. Built to bring order to the chaos of academia.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -66,25 +67,31 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/Dasarath-Mali/DS_rev">DS_rev</a></h3>
-      <p>A comprehensive Data Structures revision hub built with HTML. A go-to reference for DSA concepts, code snippets, and exam prep — structured for clarity.</p>
+      <h3>🔵 <a href="https://github.com/Dasarath-Mali/VisuaCode">VisuaCode</a></h3>
+      <p>A JavaScript-powered visual coding environment designed to make programming concepts intuitive and interactive — bridging the gap between logic and visualization for learners and educators.</p>
       <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚛️ <a href="https://github.com/Dasarath-Mali/physics">Physics Simulator</a></h3>
-      <p>An interactive HTML-based physics playground that visualizes key physics concepts — from motion to forces — directly in the browser. No installs needed.</p>
+      <h3>🤖 <a href="https://github.com/Dasarath-Mali/Agentic-Portfolio">Agentic Portfolio</a></h3>
+      <p>An AI-agent-powered personal portfolio that goes beyond static pages — dynamically showcasing projects, responding to visitor queries, and representing Dasarath's work intelligently.</p>
       <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/AI%20Powered-412991?style=flat&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎂 <a href="https://github.com/Dasarath-Mali/HAPPY_BIRTHDAY">Happy Birthday</a></h3>
-      <p>A CSS-crafted birthday surprise page — a fun creative project showcasing animations, styling finesse, and a personal touch. Because good devs celebrate too! 🎉</p>
+      <h3>✨ <a href="https://github.com/Dasarath-Mali/PROVIBER-AI">PROVIBER AI</a></h3>
+      <p>An AI-driven productivity and vibe companion — blending smart automation with an engaging UX to help users stay focused, energized, and in flow through their day.</p>
       <p>
+        <img src="https://img.shields.io/badge/AI%20Powered-412991?style=flat&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
       </p>
     </td>
@@ -122,8 +129,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dasarath--Mali-181717?style=for-the-badge&logo=github)](https://github.com/Dasarath-Mali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dasarath-mali)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dasarath-mali-101376323)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasarathmali0007@gmail.com)
 
 </div>
 
