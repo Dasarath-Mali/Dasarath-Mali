@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dasarath+Mali+%F0%9F%91%8B;Full+Stack+Developer;Curious+Explorer+of+Ideas;Building+one+line+at+a+time..." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dasarath%20Mali&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Curious%20Explorer&descSize=18&descAlignY=58" alt="Dasarath Mali banner" width="100%" />
+
+<a href="https://github.com/Dasarath-Mali">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Dasarath+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Node+%2B+Python;Merging+AI+with+clean%2C+intuitive+design;Building+one+line+at+a+time..." alt="Typing SVG" />
+</a>
 
 <br/>
 
-<p>
-  <em>"A curious explorer of ideas, blending a sharp mind with a genuine heart —<br/>approaching every challenge with the freedom to be unique."</em>
-</p>
+<em>"A curious explorer of ideas, blending a sharp mind with a genuine heart —<br/>approaching every challenge with the freedom to be unique."</em>
 
-<br/>
+<br/><br/>
 
-<!-- Profile Views & Followers -->
 <img src="https://komarev.com/ghpvc/?username=Dasarath-Mali&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 &nbsp;
 <a href="https://github.com/Dasarath-Mali?tab=followers">
@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **PROVIBER AI** & **Agentic Portfolio** — where AI meets real-world utility
+- 🔭 Building **PROVIBER AI** & **Agentic Portfolio** — where AI meets real-world utility
 - 🎓 Creator of **Academic Orchestrator** — simplifying student workflows end-to-end
 - 🌱 Sharpening my **Data Structures & Algorithms** skills daily
 - 💡 Passionate about merging AI capabilities with clean, intuitive full-stack design
@@ -35,21 +35,9 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,express,git,github,vscode&theme=dark" alt="tech stack" />
+</div>
 
 ---
 
@@ -59,40 +47,40 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🎓 <a href="https://github.com/Dasarath-Mali/Academic-Orchestrator">Academic Orchestrator</a></h3>
-      <p>A full-stack academic management platform that streamlines student workflows — from scheduling and assignments to progress tracking. Built to bring order to the chaos of academia.</p>
+      <p>A full-stack academic management platform that streamlines student workflows — from scheduling and assignments to progress tracking.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🔵 <a href="https://github.com/Dasarath-Mali/VisuaCode">VisuaCode</a></h3>
-      <p>A JavaScript-powered visual coding environment designed to make programming concepts intuitive and interactive — bridging the gap between logic and visualization for learners and educators.</p>
+      <p>A JavaScript-powered visual coding environment that makes programming concepts intuitive and interactive for learners and educators.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/Dasarath-Mali/Agentic-Portfolio">Agentic Portfolio</a></h3>
-      <p>An AI-agent-powered personal portfolio that goes beyond static pages — dynamically showcasing projects, responding to visitor queries, and representing Dasarath's work intelligently.</p>
+      <p>An AI-agent-powered personal portfolio that dynamically showcases projects and responds to visitor queries.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/AI%20Powered-412991?style=flat&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/AI%20Powered-6E40C9?style=flat&logo=openai&logoColor=white" alt="AI Powered" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>✨ <a href="https://github.com/Dasarath-Mali/PROVIBER-AI">PROVIBER AI</a></h3>
-      <p>An AI-driven productivity and vibe companion — blending smart automation with an engaging UX to help users stay focused, energized, and in flow through their day.</p>
+      <p>An AI-driven productivity and vibe companion that blends smart automation with an engaging UX to keep users focused and in flow.</p>
       <p>
-        <img src="https://img.shields.io/badge/AI%20Powered-412991?style=flat&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI%20Powered-6E40C9?style=flat&logo=openai&logoColor=white" alt="AI Powered" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
       </p>
     </td>
   </tr>
@@ -100,26 +88,36 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dasarath-Mali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dasarath-Mali&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Dasarath-Mali?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20All-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="repositories" />
+</a>
+<a href="https://github.com/Dasarath-Mali?tab=followers">
+  <img src="https://img.shields.io/github/followers/Dasarath-Mali?style=for-the-badge&logo=github&label=Followers&color=0e75b6" alt="followers" />
+</a>
+<a href="https://github.com/Dasarath-Mali/healthy-artery">
+  <img src="https://img.shields.io/github/last-commit/Dasarath-Mali/healthy-artery?style=for-the-badge&label=Last%20Commit&color=3fb950" alt="last commit" />
+</a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dasarath-Mali&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com?user=Dasarath-Mali&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dasarath-Mali&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dasarath-Mali/Dasarath-Mali/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dasarath-Mali/Dasarath-Mali/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Dasarath-Mali/Dasarath-Mali/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -134,8 +132,4 @@
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" alt="footer" width="100%" />
